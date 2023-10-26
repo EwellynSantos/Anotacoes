@@ -7,3 +7,5 @@
 * [If/Else e Switch](if-else-e-switch.md)
 * [For e Foreach](for-e-foreach.md)
 * [Dicionário](dicionario.md)
+* [Funções](funcoes.md)
+* [Classes](classes.md)
