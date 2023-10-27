@@ -20,8 +20,12 @@ Exemplo:&#x20;
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 Nesse caso apenas mudamos no atributo essa informação, adicionando o get e set.&#x20;
+
+**ps:** neste caso nao temos nenhuma condição para o uso do get e set.
+
+Propriedades deve começãr com letra maiúscula.
