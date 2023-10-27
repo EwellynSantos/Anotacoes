@@ -9,3 +9,4 @@
 * [Dicionário](dicionario.md)
 * [Funções](funcoes.md)
 * [Classes](classes.md)
+* [Get e Set](get-e-set.md)
