@@ -12,7 +12,7 @@ Exemplo:&#x20;
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -26,6 +26,26 @@ Exemplo:&#x20;
 
 Nesse caso apenas mudamos no atributo essa informação, adicionando o get e set.&#x20;
 
-**ps:** neste caso nao temos nenhuma condição para o uso do get e set.
+**ps:** neste caso não temos nenhuma condição para o uso do get e set.
 
-Propriedades deve começãr com letra maiúscula.
+Propriedades deve começar com letra maiúscula.
+
+
+
+**Get**
+
+Propriedades que são somente leitura(get) podemos fazer da seguinte maneira:
+
+**Antes**
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+**Depois**
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Dessa maneira deixamos um codigo mais conciso e facil de ler.&#x20;
