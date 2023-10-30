@@ -17,3 +17,23 @@ Depois
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+
+
+
+
+Pra que também o código nao fique moroso, tendo que toda hora colocar o musica1.propriedade, como abaixo:
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Podemos então fazer do modo abaixo. ps: nao esqueça do ;
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+</div>
