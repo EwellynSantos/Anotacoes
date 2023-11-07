@@ -13,3 +13,4 @@
 * [Lambda](lambda.md)
 * [Relacionando classes](relacionando-classes.md)
 * [Construtor](construtor.md)
+* [Namespaces](namespaces.md)

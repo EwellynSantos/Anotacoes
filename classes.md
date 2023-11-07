@@ -8,7 +8,7 @@
 
 </div>
 
-Em um mesmo arquivo, voce pode usar os atributos da classe livremente, mas caso queira acessar por um ouro arquivo, deve alterar o acesso daquele atributo, deixando como **public.**
+Em um mesmo arquivo, você pode usar os atributos da classe livremente, mas caso queira acessar por um ouro arquivo, deve alterar o acesso daquele atributo, deixando como **public.**
 
 **Criando um objeto:**
 
@@ -23,6 +23,16 @@ Para imprimir o conteúdo de uma variavel:
 <div align="left">
 
 <figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+**Internal**
+
+quando colocamos a propriedade internal na classe, informamos que aquela classe só pode ser acessada dentro do projeto.
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
