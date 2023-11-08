@@ -14,3 +14,4 @@
 * [Relacionando classes](relacionando-classes.md)
 * [Construtor](construtor.md)
 * [Namespaces](namespaces.md)
+* [Métodos estáticos](metodos-estaticos.md)
