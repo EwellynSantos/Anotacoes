@@ -1,17 +1,3 @@
 # Table of contents
 
-* [C# - Introdução e Funções](README.md)
-* [Input e Conversão de tipos](input-e-conversao-de-tipos.md)
-* [Interpolação de strings](interpolacao-de-strings.md)
-* [Listas](listas.md)
-* [If/Else e Switch](if-else-e-switch.md)
-* [For e Foreach](for-e-foreach.md)
-* [Dicionário](dicionario.md)
-* [Funções](funcoes.md)
-* [Classes](classes.md)
-* [Get e Set](get-e-set.md)
-* [Lambda](lambda.md)
-* [Relacionando classes](relacionando-classes.md)
-* [Construtor](construtor.md)
-* [Namespaces](namespaces.md)
-* [Métodos estáticos](metodos-estaticos.md)
+* [Introdução a Responsividade](README.md)
