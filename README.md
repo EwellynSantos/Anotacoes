@@ -1,47 +1,22 @@
-# Menu
+# Git Flow
 
-Menu hamburgue
+Main - Branch principal, é onde tem o código, responsável pela atualização do projeto.
 
-Utilizar os seguintes elementos:
+Develop - Branch usada para testar.
 
-da forma abaixo, permite criar um menu que quando clicamos, as informações apareçam
+Feature - Branch usada para criar funcionalidades novas, depois atualizada no develop.
 
-````css
-```css
+Release - Antes de subir para a produção, o código passa pela branch release, é uma branch de liberação, é onde os analistas de testes fazendo todos os testes.  Por fim, pode realizar um branch na main.
 
-.cabecalho {
-    ...
-    position: relative; /*menu-hamburger*/
-}
+Hotfix - usada para fazer alteraçoes pequenas e rápidas. Usadas para bugs simples também. quando é feita uma alteração, o código é passado para a branch main e branch develop.
 
 
 
-.lista-menu { /*menu-hamburger*/
-    display: none;
-    position: absolute;
-    top: 100%;
-}
+ps: nossa develop deve estar exatamente igual a main.
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
-/* o ~ é como uma condicional(if) no css.
-se o botão estiver checked, o lista menu ira aparecer, usando o elemento display block*/
-.container__botao:checked ~ .lista-menu { /*menu-hamburger*/
-    display: block;
-}
-```
 
-```html
-<header class="cabecalho">
-        <div class="container">
-            <input type="checkbox" id="menu" class="container__botao">
-            <label for="menu">
-                <span class="cabecalho__menu container__imagem"></span>
-            </label>
-            <ul class="lista-menu">
-                <li class="lista-menu__titulo">Categorias</li>
-                <li class="lista-menu__item">
-                    <a href="#" class="lista-menu__link">Programação</a>
-                </li>
-            </ul>
-```
-````
+
+
