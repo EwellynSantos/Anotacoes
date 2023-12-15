@@ -2,7 +2,7 @@
 
 Para armazenar o valor de entrada em um input:
 
-<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Colocando o !, definimos que a entrada não pode ser um valor null.
 

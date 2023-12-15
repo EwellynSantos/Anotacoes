@@ -12,7 +12,7 @@ Exemplo:&#x20;
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -40,12 +40,12 @@ Propriedades que são somente leitura(get) podemos fazer da seguinte maneira:
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 **Depois**
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Dessa maneira deixamos um codigo mais conciso e facil de ler.&#x20;

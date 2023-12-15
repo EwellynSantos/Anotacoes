@@ -1,22 +1,37 @@
-# Git Flow
+# C# - Introdução e Funções
 
-Main - Branch principal, é onde tem o código, responsável pela atualização do projeto.
+Introdução
 
-Develop - Branch usada para testar.
+Linguagem fortemente tipada
 
-Feature - Branch usada para criar funcionalidades novas, depois atualizada no develop.
+Declarando uma variável:
 
-Release - Antes de subir para a produção, o código passa pela branch release, é uma branch de liberação, é onde os analistas de testes fazendo todos os testes.  Por fim, pode realizar um branch na main.
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Hotfix - usada para fazer alteraçoes pequenas e rápidas. Usadas para bugs simples também. quando é feita uma alteração, o código é passado para a branch main e branch develop.
+Imprimindo no console:
 
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+Funções
 
-ps: nossa develop deve estar exatamente igual a main.
+PS: Void não retorna nada
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+Declarando uma função:
 
+Tipo + nome da função(){
 
+conteudo
 
+}
 
+E para exibir o conteúdo da função: nome da função + ();
 
+&#x20;
+
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+Verbation literal:
+
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+Colocando o @, permite que seja impresso exatamente o que foi deixado no console.

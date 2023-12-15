@@ -6,7 +6,7 @@ No código ela orienta onde está nosso arquivo.
 
 <div align="center" data-full-width="true">
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
