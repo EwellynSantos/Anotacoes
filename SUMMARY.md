@@ -18,3 +18,5 @@
 * [Herança](heranca.md)
 * [Sobrescrever/Override](sobrescrever-override.md)
 * [Interface](interface.md)
+* [IA no Visual Studio Code](ia-no-visual-studio-code.md)
+* [Usando o GPT no Visual Studio Code](usando-o-gpt-no-visual-studio-code.md)
