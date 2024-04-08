@@ -1,8 +1,10 @@
 # useState
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Se trata de uma hook que facilita o manuseio do estado dos componentes. O estado se refere aos dados manipulados pelo componente, os dados que esse componente recebe.&#x20;
+
+ps: usamos os state pois criamos as consts setState, que pode ser manipulada e os valor alterado.&#x20;
 
 No exemplo abaixo temos um formulário com dois inputs, name e password
 
@@ -56,7 +58,7 @@ export default Form
 ```
 ````
 
-Neste exemplo nós importamos o useState ![](<.gitbook/assets/image (5) (1).png>)
+Neste exemplo nós importamos o useState ![](<.gitbook/assets/image (5) (1) (1).png>)
 
 Criamos uma const ![](<.gitbook/assets/image (6).png>)
 

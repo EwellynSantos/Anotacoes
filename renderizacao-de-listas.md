@@ -1,12 +1,12 @@
 # Renderizaçao de Listas
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 inicialmente criamos um componente, onde usamos o metodo map para "mapear" o array, adicionamos tambem o index, que seria o id (o ideal é que o id seja criado no backend e atrelado ao frontend)
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-Em App.jsx nós importamos e criamos o array com a lista, assim ela será implementada na tela.                             ![](<.gitbook/assets/image (3).png>)
+Em App.jsx nós importamos e criamos o array com a lista, assim ela será implementada na tela.                             ![](<.gitbook/assets/image (3) (1).png>)
 
 
 
@@ -14,7 +14,7 @@ Agora faremos a Condiçao da lista
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -12,3 +12,5 @@
 * [Métodos por Props](metodos-por-props.md)
 * [Renderização por Condiçao](renderizacao-por-condicao.md)
 * [Renderizaçao de Listas](renderizacao-de-listas.md)
+* [State Lift](state-lift.md)
+* [React Router](react-router.md)
