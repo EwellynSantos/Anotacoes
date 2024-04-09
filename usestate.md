@@ -1,6 +1,6 @@
 # useState
 
-<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Se trata de uma hook que facilita o manuseio do estado dos componentes. O estado se refere aos dados manipulados pelo componente, os dados que esse componente recebe.&#x20;
 
@@ -67,3 +67,5 @@ E adicionamos  ao input a seguinte açao: a cada vez que a variavel name mudasse
 
 
 Se fosse um caso de ediçao de form, o nome já viria setado e o value name![](<.gitbook/assets/image (9).png>)
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

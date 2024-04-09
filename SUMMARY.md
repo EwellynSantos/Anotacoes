@@ -14,3 +14,4 @@
 * [Renderizaçao de Listas](renderizacao-de-listas.md)
 * [State Lift](state-lift.md)
 * [React Router](react-router.md)
+* [React Icons](react-icons.md)
