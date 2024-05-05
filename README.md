@@ -1,3 +1,7 @@
-# npm commands
+# Alerta
 
-<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+Para criar um alerta na sua pagina, basta fazer conforme abaixo:\
+![](<.gitbook/assets/image (14).png>)
+
+Resultado:\
+![](<.gitbook/assets/image (15).png>)
