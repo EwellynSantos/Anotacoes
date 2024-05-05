@@ -8,7 +8,7 @@ description: Math.random gera número aleatórios.
 
 Lembrando que se eu multiplicar por algum número(ex: 10), será definido que os números aleatórios serão até o penúltimo(9), pois nao inclui o número multiplicado (10), e para inclui-lo pracisa somar 1. exemplo:&#x20;
 
-parseInt (Math.random() \* 10 ) +1;
+parseInt (Math.random() \* 10 +1 ) ;
 
 conforme o exemplo abaixo, ele gera números extensos:
 
