@@ -9,3 +9,4 @@
 * [Operadores lógicos](operadores-logicos.md)
 * [Break](break.md)
 * [Operador Ternário](operador-ternario.md)
+* [N° aleatório (Math.random)](n-aleatorio-math.random.md)
