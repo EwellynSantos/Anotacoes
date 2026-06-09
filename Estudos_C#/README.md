@@ -2,11 +2,12 @@
 
 ### Tipos Básicos do c\#
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="background-color:$success;">Notes:</mark>&#x20;
 
-* 1 byte possui 8 bits, e fazendo um calculo de cobina;'oes, podemos fazer 256 combinações.&#x20;
+* Existe o tipo dynamic, ele é flexivel, não há um tipo primitivo relacionado a ele. Dependendo do cenário, ele pode ser um bool, um int, umas string, depende de como vai utilizar.&#x20;
+* 1 byte possui 8 bits, e fazendo um calculo de cobinações, podemos fazer 256 combinações.&#x20;
 * O tipo string é imutavel, ou seja, se atribuir um novo valor a string, na verdade voce está criando um novo valor.&#x20;
 
 
