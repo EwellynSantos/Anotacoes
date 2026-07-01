@@ -11,7 +11,7 @@ Usos comuns :&#x20;
 * Receber informações obrigatórias para a criação do objeto;
 * Executar alguma configuração necessária antes do objeto ser utilizado.
 
-
+***
 
 ### Sobrecargas
 
@@ -21,7 +21,7 @@ A ideia é permitir que a mesma ação seja executada de formas diferentes, depe
 
 O compilador escolhe automaticamente qual método chamar com base na **quantidade** e nos **tipos dos parâmetros**.
 
-
+***
 
 ### This
 
@@ -89,3 +89,4 @@ public class Pessoa
 }
 ```
 
+Neste exemplo, o intuito é nao ter repetição de código, centralizando a lógica em um unico construtor.
