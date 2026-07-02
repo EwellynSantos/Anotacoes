@@ -4,7 +4,7 @@
 
 É o principio que consiste em proteger os dados de um objeto e controlar como eles podem ser acessados ou modificados.
 
-Com o encapsulamento, aplicamos modificados de acesso, como por exempo o private nas propriedades, dessa forma impossibilita a alteração ou visualização da propriedade de forma indevida. E além de adicionar os modificadores, é necessário criar métodos que permitam a visualização e modificação de maneira correta.&#x20;
+Com o encapsulamento, aplicamos modificados de acesso, como por exempo o private nos atributos, dessa forma impossibilita a alteração ou visualização do atributo de forma indevida. E além de adicionar os modificadores, é necessário criar métodos que permitam a visualização e modificação de maneira correta.&#x20;
 
 ***
 
@@ -33,7 +33,7 @@ public string Nome
 
 Esse `_nome` é chamado de **backing field** e, nas propriedades automáticas (`{ get; set; }`), ele é gerado automaticamente pelo compilador.
 
-A grande vantagem das properties \[e controlar o que entra, dessa maneira voce pode adicionar condições para a propriedade set, como por exemplo:
+A grande vantagem das properties é controlar o que entra, dessa maneira voce pode adicionar condições para a propriedade set, como por exemplo:
 
 ```csharp
 private int _idade;
