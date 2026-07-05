@@ -5,3 +5,5 @@
 * [Construtores, Sobrecargas e This](construtores-sobrecargas-e-this.md)
 * [Encapsulamento, Properties e Auto Properties](encapsulamento-properties-e-auto-properties.md)
 * [Modificadores de acesso](modificadores-de-acesso.md)
+* [Tipos referência e tipo valor](tipos-referencia-e-tipo-valor.md)
+* [Garbage Collector](garbage-collector.md)

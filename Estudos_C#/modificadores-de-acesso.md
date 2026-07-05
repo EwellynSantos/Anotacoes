@@ -1,6 +1,6 @@
 # Modificadores de acesso
 
-Modificadores para Membros
+## Modificadores para Membros
 
 Os membros de uma classe podem ser atributos, métodos, propriedades e etc.
 
@@ -8,7 +8,7 @@ Os membros de uma classe podem ser atributos, métodos, propriedades e etc.
 
 ***
 
-#### Modificadores de Classes
+## Modificadores de Classes
 
 **Classes top-level**
 
@@ -57,4 +57,4 @@ public class Empresa
 
 ***
 
-#### Ordem sugerida para a estrutura de uma classe ![](<.gitbook/assets/image (3).png>)
+### Ordem sugerida para a estrutura de uma classe ![](<.gitbook/assets/image (3).png>)

@@ -1,6 +1,6 @@
 # Encapsulamento, Properties e Auto Properties
 
-#### Encapsulamento
+## Encapsulamento
 
 É o principio que consiste em proteger os dados de um objeto e controlar como eles podem ser acessados ou modificados.
 
@@ -8,7 +8,7 @@ Com o encapsulamento, aplicamos modificados de acesso, como por exempo o private
 
 ***
 
-#### Properties
+## Properties
 
 As propriedades são a forma padrão do C# de controlar o acesso aos atributos de uma classe.&#x20;
 
@@ -55,7 +55,7 @@ public int Idade
 
 ***
 
-#### Auto Properties
+## Auto Properties
 
 As **Auto-Properties (Propriedades Automáticas)** são uma forma simplificada de declarar uma propriedade quando você **não precisa escrever a lógica do `get` e do `set`**.
 
