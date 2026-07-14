@@ -8,3 +8,5 @@
 * [Tipos referência e tipo valor](tipos-referencia-e-tipo-valor.md)
 * [Garbage Collector](garbage-collector.md)
 * [Mensageria Kafka](mensageria-kafka.md)
+* [Nullable](nullable.md)
+* [Vetores](vetores.md)
